@@ -1,0 +1,1 @@
+Hhis is not the first version of spoon. Soon I will make the official v1.0. I will notify everyone using a version of the app >= 0 with a similiar info box once I finish v1.
